@@ -3,8 +3,9 @@ This is a simple calculator program written in C that performs basic arithmetic 
 ![Image Alt](https://raw.githubusercontent.com/rupjit23/Calculator_using_C_language/refs/heads/main/Screenshot%202025-03-22%20161137.png)
 
 Error Handling
-Invalid choices: Displays an error message and prompts again.
-Division by zero: Shows an error message and prevents calculation.
-Modulus by zero: Prevents operation and alerts the user.
+<p>
+- Invalid choices: Displays an error message and prompts again.
+- Division by zero: Shows an error message and prevents calculation.
+- Modulus by zero: Prevents operation and alerts the user.</p>
 ![Image Alt](https://raw.githubusercontent.com/rupjit23/Calculator_using_C_language/refs/heads/main/Screenshot%202025-03-22%20161106.png)
 
