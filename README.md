@@ -9,5 +9,6 @@ Division by zero: Shows an error message and prevents calculation.
 
 Modulus by zero: Prevents operation and alerts the user.
 
+
 ![Image Alt](https://raw.githubusercontent.com/rupjit23/Calculator_using_C_language/refs/heads/main/Screenshot%202025-03-22%20161106.png)
 
